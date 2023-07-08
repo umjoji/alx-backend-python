@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Function: to_kv
 Params: k(str), v(int or float)

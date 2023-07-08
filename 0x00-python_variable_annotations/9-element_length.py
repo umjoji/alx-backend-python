@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Write a type-annotated function element_length
 which takes a list input_list of strings

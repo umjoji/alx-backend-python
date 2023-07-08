@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Augmenting a function to have a list as parameters
 and return a union of values
