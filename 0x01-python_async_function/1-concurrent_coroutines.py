@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Multiple coroutines
+Execute multiple coroutines
 """
 
 import asyncio
